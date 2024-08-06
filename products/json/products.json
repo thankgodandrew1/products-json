@@ -67,7 +67,7 @@
       "images": {
         "main": "galactic-explorer-drone.jpg",
         "thumbnails": [
-          "images/drone-thumb1.jpg",
+          "../images/drone-thumb1.jpg",
           "images/drone-thumb2.jpg",
           "images/drone-thumb3.jpg",
           "images/drone-thumb4.jpg",
