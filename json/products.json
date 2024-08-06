@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Futuristic Sci Fi Space Shuttle",
+      "price": 355,
+      "reviewCount": 20,
+      "description": "A detailed replica of a futuristic space shuttle, perfect for collectors and enthusiasts.",
+      "images": {
+        "main": "images/space-shuttle-main.jpg",
+        "thumbnails": [
+          "images/shuttle-thumb1.jpg",
+          "images/shuttle-thumb2.jpg",
+          "images/shuttle-thumb3.jpg",
+          "images/shuttle-thumb4.jpg"
+        ]
+      },
+      "options": {
+        "sizes": ["small", "medium", "large", "xtra Large"],
+        "colors": ["red", "blue", "green", "yellow", "orange"]
+      },
+      "details": {
+        "description": "This spacecraft model is crafted with precision and attention to detail. Made from high-quality materials, it is a must-have for any sci-fi fan.",
+        "specifications": "Material: Resin, Release Year: 2024, Model Type: Space Shuttle",
+        "careInstructions": "Wipe with a dry cloth to clean. Avoid direct sunlight and moisture.",
+        "additionalInfo": "Ships within 5-7 business days. 30-day return policy."
+      },
+      "recommendedProducts": [
+        {
+          "title": "Alien Artifact - Ancient Egg",
+          "price": 49.54,
+          "image": "images/ancient-egg.jpg"
+        },
+        {
+          "title": "Galactic Map Poster",
+          "price": 21,
+          "image": "images/galactic-map-poster.jpg"
+        },
+        {
+          "title": "Cute Space Keychain",
+          "price": 12,
+          "image": "images/astronaut-keychains.jpg"
+        },
+        {
+          "title": "Borg Cube Space Station Ship Box Lowpoly",
+          "price": 29,
+          "image": "images/borg-cube.jpg"
+        },
+        {
+          "title": "Quantum Physics for Beginners",
+          "price": 22.67,
+          "image": "images/quantum-physics.jpg"
+        },
+        {
+          "title": "International Space Station Model",
+          "price": 89.32,
+          "image": "images/international-space-station-model.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Galactic Explorer Drone",
+      "price": 989,
+      "reviewCount": 35,
+      "description": "An advanced drone model designed for interstellar exploration, complete with high-resolution cameras and long-lasting battery life.",
+      "images": {
+        "main": "images/galactic-explorer-drone.jpg",
+        "thumbnails": [
+          "images/drone-thumb1.jpg",
+          "images/drone-thumb2.jpg",
+          "images/drone-thumb3.jpg",
+          "images/drone-thumb4.jpg",
+          "images/drone-thumb5.jpg",
+          "images/drone-thumb6.jpg",
+          "images/drone-thumb7.jpg",
+          "images/drone-thumb8.jpg"
+        ]
+      },
+      "options": {
+        "sizes": ["compact", "standard", "extended"],
+        "colors": ["black", "white", "silver", "gray"]
+      },
+      "details": {
+        "description": "Explore the world with this state-of-the-art drone. It's perfect for both amateur and professional use.",
+        "specifications": "Battery Life: 12 hours, Battery Type: Li-Po (Lithium Polymer), Obstacle Avoidance: Yes, Range: 500 miles, Release Year: 2023, Control: Remote Control / Mobile App",
+        "careInstructions": "Wipe with a dry cloth to clean.",
+        "additionalInfo": "Includes spare batteries and a carrying case. 1-year warranty."
+      },
+      "recommendedProducts": [
+        {
+          "title": "Asteroid Belt Poster",
+          "price": 15,
+          "image": "images/asteroid-belt-poster.png"
+        },
+        {
+          "title": "International Space Station Model",
+          "price": 89.32,
+          "image": "images/international-space-station-model.jpg"
+        },
+        {
+          "title": "Interstellar Travel Guide",
+          "price": 31,
+          "image": "images/interstellar-travel-guide.jpg"
+        },
+        {
+          "title": "Zero Gravity Pen",
+          "price": 16.43,
+          "image": "images/zero-gravity-pen.jpg"
+        },
+        {
+          "title": "Star Wars Mug",
+          "price": 18.95,
+          "image": "images/star-wars-mug.jpg"
+        },
+        {
+          "title": "Space Helmet Model",
+          "price": 329.24,
+          "image": "images/space-helmet.jpg"
+        }
+      ]
+    }
+  ]
+}
