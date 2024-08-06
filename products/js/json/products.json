@@ -7,7 +7,7 @@
       "reviewCount": 20,
       "description": "A detailed replica of a futuristic space shuttle, perfect for collectors and enthusiasts.",
       "images": {
-        "main": "space-shuttle-main.jpg",
+        "main": "images/space-shuttle-main.jpg",
         "thumbnails": [
           "images/shuttle-thumb1.jpg",
           "images/shuttle-thumb2.jpg",
@@ -65,9 +65,9 @@
       "reviewCount": 35,
       "description": "An advanced drone model designed for interstellar exploration, complete with high-resolution cameras and long-lasting battery life.",
       "images": {
-        "main": "galactic-explorer-drone.jpg",
+        "main": "images/galactic-explorer-drone.jpg",
         "thumbnails": [
-          "../images/drone-thumb1.jpg",
+          "images/drone-thumb1.jpg",
           "images/drone-thumb2.jpg",
           "images/drone-thumb3.jpg",
           "images/drone-thumb4.jpg",
