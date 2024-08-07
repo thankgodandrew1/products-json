@@ -2,121 +2,168 @@
   "products": [
     {
       "id": 1,
-      "title": "Futuristic Sci Fi Space Shuttle",
-      "price": 355,
-      "reviewCount": 20,
-      "description": "A detailed replica of a futuristic space shuttle, perfect for collectors and enthusiasts.",
+      "title": "Handcrafted Hover Craft",
+      "price": 567,
+      "reviewCount": 5,
+      "description": "A detailed replica of a futuristic hover craft, perfect for collectors and science fiction enthusiasts.",
       "images": {
-        "main": "images/space-shuttle-main.jpg",
+        "main": "images/hover_craft.jpeg",
         "thumbnails": [
-          "images/shuttle-thumb1.jpg",
-          "images/shuttle-thumb2.jpg",
-          "images/shuttle-thumb3.jpg",
-          "images/shuttle-thumb4.jpg"
+          "images/hover_craft_thumb1.jpeg",
+          "images/hover_craft_thumb2.jpeg",
+          "images/hover_craft_thumb3.jpeg",
+          "images/hover_craft_thumb4.jpeg",
+          "images/hover_craft_thumb5.jpeg"
         ]
       },
       "options": {
-        "sizes": ["small", "medium", "large", "xtra Large"],
-        "colors": ["red", "blue", "green", "yellow", "orange"]
+        "sizes": ["small", "medium", "large", "extra large"],
+        "colors": ["red", "blue", "green", "yellow", "orange", "cyan", "brown"]
       },
       "details": {
-        "description": "This spacecraft model is crafted with precision and attention to detail. Made from high-quality materials, it is a must-have for any sci-fi fan.",
-        "specifications": "Material: Resin, Release Year: 2024, Model Type: Space Shuttle",
+        "description": "This hover craft handmade craft is crafted with precision and attention to detail. Made from high-quality materials, it is a must-have for any sci-fi fan.",
+        "specifications": "Material: Resin, Release Year: 2024, Craft Type: Hover",
         "careInstructions": "Wipe with a dry cloth to clean. Avoid direct sunlight and moisture.",
-        "additionalInfo": "Ships within 5-7 business days. 30-day return policy."
+        "additionalInfo": "Ships within 5-7 business days. 21-day return policy."
       },
       "recommendedProducts": [
         {
-          "title": "Alien Artifact - Ancient Egg",
+          "title": "The Little Alebrije",
           "price": 49.54,
-          "image": "images/ancient-egg.jpg"
+          "image": "images/little_alebrije.jpeg"
         },
         {
-          "title": "Galactic Map Poster",
-          "price": 21,
-          "image": "images/galactic-map-poster.jpg"
+          "title": "Handmade Wooden Robot",
+          "price": 75,
+          "image": "images/wooden_robot.jpeg"
         },
         {
-          "title": "Cute Space Keychain",
-          "price": 12,
-          "image": "images/astronaut-keychains.jpg"
+          "title": "Handmade Torpedo Tube",
+          "price": 25,
+          "image": "images/torpedo_tube.jpeg"
         },
         {
-          "title": "Borg Cube Space Station Ship Box Lowpoly",
+          "title": "Bright Tower - Hand Crafted",
           "price": 29,
-          "image": "images/borg-cube.jpg"
+          "image": "images/bright_tower.jpeg"
         },
         {
-          "title": "Quantum Physics for Beginners",
-          "price": 22.67,
-          "image": "images/quantum-physics.jpg"
+          "title": "Rusty Tinker",
+          "price": 1154.89,
+          "image": "images/rusty_tinker.jpeg"
         },
         {
-          "title": "International Space Station Model",
-          "price": 89.32,
-          "image": "images/international-space-station-model.jpg"
+          "title": "Dream Weaver",
+          "price": 890.32,
+          "image": "images/dream_weaver.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "username": "SciFiFan123",
+          "rating": 5,
+          "comment": "Absolutely love this hover craft! The detail is incredible and it looks great on my shelf."
+        },
+        {
+          "username": "CollectorGuy",
+          "rating": 4,
+          "comment": "Great craftsmanship, though I wish it was a bit larger. Still a fantastic piece."
+        },
+        {
+          "username": "FutureEnthusiast",
+          "rating": 5,
+          "comment": "This is a must-have for any sci-fi collector. Very happy with my purchase."
+        },
+        {
+          "username": "ModelMaker",
+          "rating": 4,
+          "comment": "High quality and very detailed. The packaging was also very secure."
+        },
+        {
+          "username": "TechieAndrew",
+          "rating": 5,
+          "comment": "Amazing product! Worth every penny. Highly recommend for any science fiction fan."
         }
       ]
     },
     {
       "id": 2,
-      "title": "Galactic Explorer Drone",
-      "price": 989,
-      "reviewCount": 35,
-      "description": "An advanced drone model designed for interstellar exploration, complete with high-resolution cameras and long-lasting battery life.",
+      "title": "Rusty Tinker",
+      "price": 854.89,
+      "reviewCount": 4,
+      "description": "An well designed robot made from repurposed materials, giving it a rustic yet futuristic look.",
       "images": {
-        "main": "images/galactic-explorer-drone.jpg",
+        "main": "images/rusty_tinker.jpeg",
         "thumbnails": [
-          "images/drone-thumb1.jpg",
-          "images/drone-thumb2.jpg",
-          "images/drone-thumb3.jpg",
-          "images/drone-thumb4.jpg",
-          "images/drone-thumb5.jpg",
-          "images/drone-thumb6.jpg",
-          "images/drone-thumb7.jpg",
-          "images/drone-thumb8.jpg"
+          "images/rusty_thumb1.jpeg",
+          "images/rusty_thumb2.jpeg",
+          "images/rusty_thumb3.jpeg",
+          "images/rusty_thumb4.jpeg",
+          "images/rusty_thumb5.jpeg"
         ]
       },
       "options": {
-        "sizes": ["compact", "standard", "extended"],
-        "colors": ["black", "white", "silver", "gray"]
+        "sizes": ["small", "medium", "large"],
+        "colors": ["black", "white", "silver", "gray", "cyan"]
       },
       "details": {
-        "description": "Explore the world with this state-of-the-art drone. It's perfect for both amateur and professional use.",
-        "specifications": "Battery Life: 12 hours, Battery Type: Li-Po (Lithium Polymer), Obstacle Avoidance: Yes, Range: 500 miles, Release Year: 2023, Control: Remote Control / Mobile App",
+        "description": "The robot is primarily constructed from repurposed materials, including wood, metal, and various components. The body is made from a wooden box, with metal plates and gears attached for reinforcement and aesthetic appeal.",
+        "specifications": "Material: Wood, Metal; Release Year: 2004; Style: Steampunk, Shape: Rectangular body with a rounded head, ",
         "careInstructions": "Wipe with a dry cloth to clean.",
-        "additionalInfo": "Includes spare batteries and a carrying case. 1-year warranty."
+        "additionalInfo": "30-day warranty."
       },
       "recommendedProducts": [
         {
-          "title": "Asteroid Belt Poster",
-          "price": 15,
-          "image": "images/asteroid-belt-poster.png"
+          "title": "Handcrafted Wooden Keepsake Box",
+          "price": 154,
+          "image": "images/keepsake_box.jpeg"
         },
         {
-          "title": "International Space Station Model",
+          "title": "Oakley's Abode",
           "price": 89.32,
-          "image": "images/international-space-station-model.jpg"
+          "image": "images/oakley.jpeg"
         },
         {
-          "title": "Interstellar Travel Guide",
+          "title": "Carved Bamboo Cup",
           "price": 31,
-          "image": "images/interstellar-travel-guide.jpg"
+          "image": "images/bamboo_cup.jpeg"
         },
         {
-          "title": "Zero Gravity Pen",
-          "price": 16.43,
-          "image": "images/zero-gravity-pen.jpg"
+          "title": "The Little Alebrije",
+          "price": 49.54,
+          "image": "images/little_alebrije.jpeg"
         },
         {
-          "title": "Star Wars Mug",
-          "price": 18.95,
-          "image": "images/star-wars-mug.jpg"
+          "title": "Handcrafted Hover Craft",
+          "price": 567,
+          "image": "images/hover_craft.jpeg"
         },
         {
-          "title": "Space Helmet Model",
-          "price": 329.24,
-          "image": "images/space-helmet.jpg"
+          "title": "Steampunk",
+          "price": 22.67,
+          "image": "images/steampunk.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "username": "GadgetGeek",
+          "rating": 5,
+          "comment": "A wonderful addition to my collection. The repurposed materials give it a unique charm."
+        },
+        {
+          "username": "RobotFanatic",
+          "rating": 4,
+          "comment": "Very well made, though a bit pricey. The rustic look is fantastic."
+        },
+        {
+          "username": "SteampunkLover",
+          "rating": 4,
+          "comment": "I love the steampunk aesthetic. It fits perfectly with my other pieces."
+        },
+        {
+          "username": "CraftyCollector",
+          "rating": 5,
+          "comment": "Incredible craftsmanship and attention to detail. Worth every penny."
         }
       ]
     }
