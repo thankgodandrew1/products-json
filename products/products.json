@@ -5,7 +5,7 @@
       "title": "Handcrafted Hover Craft",
       "price": 567,
       "reviewCount": 5,
-      "description": "A detailed replica of a futuristic hover craft, perfect for collectors and science fiction enthusiasts.",
+      "description": "A detailed replica of a futuristic hovercraft, it's perfect for collectors and science fiction enthusiasts.",
       "images": {
         "main": "images/hover_craft.jpeg",
         "thumbnails": [
@@ -21,7 +21,7 @@
         "colors": ["red", "blue", "green", "yellow", "orange", "cyan", "brown"]
       },
       "details": {
-        "description": "This hover craft handmade craft is crafted with precision and attention to detail. Made from high-quality materials, it is a must-have for any sci-fi fan.",
+        "description": "This hover craft handmade craft is crafted with precision and attention to detail. it is made from high-quality materials, it is a must-have for any sci-fi fan.",
         "specifications": "Material: Resin; Release Year: 2022; Craft Type: Hover",
         "careInstructions": "Wipe with a dry cloth to clean. Avoid direct sunlight and moisture.",
         "additionalInfo": "Ships within 5-7 business days. 21-day return policy."
@@ -67,22 +67,22 @@
         {
           "username": "CollectorGuy",
           "rating": 4,
-          "comment": "Great craftsmanship, though I wish it was a bit larger. Still a fantastic piece."
+          "comment": "Great craftsmanship, though I wish it was a bit larger. it's still a fantastic piece."
         },
         {
           "username": "FutureEnthusiast",
           "rating": 5,
-          "comment": "This is a must-have for any sci-fi collector. Very happy with my purchase."
+          "comment": "This is a must-have for any sci-fi collector. I am very happy with my purchase."
         },
         {
           "username": "ModelMaker",
           "rating": 4,
-          "comment": "High quality and very detailed. The packaging was also very secure."
+          "comment": "High-quality craft. The packaging was also very secure."
         },
         {
           "username": "TechieAndrew",
           "rating": 5,
-          "comment": "Amazing product! Worth every penny. Highly recommend for any science fiction fan."
+          "comment": "Amazing product! This is worth every penny. I highly recommend this piece for any science fiction fan."
         }
       ]
     },
@@ -91,7 +91,7 @@
       "title": "Rusty Tinker",
       "price": 854.89,
       "reviewCount": 4,
-      "description": "An well designed robot made from repurposed materials, giving it a rustic yet futuristic look.",
+      "description": "An well designed robot made from repurposed materials, giving it a rustic and Steampunk look.",
       "images": {
         "main": "images/rusty_tinker.jpeg",
         "thumbnails": [
@@ -107,7 +107,7 @@
         "colors": ["black", "white", "silver", "gray", "cyan"]
       },
       "details": {
-        "description": "The robot is primarily constructed from repurposed materials, including wood, metal, and various components. The body is made from a wooden box, with metal plates and gears attached for reinforcement and aesthetic appeal.",
+        "description": "The robot is primarily constructed from repurposed materials, including wood, metal, and various components. The body is made from a wooden box, with metal plates and gears attached for reinforcement and beauty appeal.",
         "specifications": "Material: Wood, Metal; Release Year: 2004; Style: Steampunk; Shape: Rectangular body with a rounded head",
         "careInstructions": "Wipe with a dry cloth to clean.",
         "additionalInfo": "30-day warranty."
@@ -153,17 +153,17 @@
         {
           "username": "RobotFanatic",
           "rating": 4,
-          "comment": "Very well made, though a bit pricey. The rustic look is fantastic."
+          "comment": "Very well made, though i'd say it is a bit pricey. The rustic look is fantastic."
         },
         {
           "username": "SteampunkLover",
           "rating": 4,
-          "comment": "I love the steampunk aesthetic. It fits perfectly with my other pieces."
+          "comment": "I love the steampunk aesthetic. It fits perfectly with my other pieces. I am a collector and I must say this is a must-have!"
         },
         {
           "username": "CraftyCollector",
           "rating": 5,
-          "comment": "Incredible craftsmanship and attention to detail. Worth every penny."
+          "comment": "Incredible craftsmanship. This piece is worth every penny."
         }
       ]
     }
