@@ -108,7 +108,7 @@
       },
       "details": {
         "description": "The robot is primarily constructed from repurposed materials, including wood, metal, and various components. The body is made from a wooden box, with metal plates and gears attached for reinforcement and beauty appeal.",
-        "specifications": "Material: Wood, Metal; Release Year: 2004; Style: Steampunk; Shape: Rectangular body with a rounded head",
+        "specifications": "Material: Wood, Metal; Release Year: 2004; Style: Steampunk; Shape: Rectangular body with a rounded head/square head",
         "careInstructions": "Wipe with a dry cloth to clean.",
         "additionalInfo": "30-day warranty."
       },
@@ -139,7 +139,7 @@
           "image": "images/hover_craft.jpeg"
         },
         {
-          "title": "Steampunk",
+          "title": "Steampunk Lamp",
           "price": 22.67,
           "image": "images/steampunk.jpeg"
         }
