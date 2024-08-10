@@ -28,6 +28,7 @@
       },
       "recommendedProducts": [
         {
+          "id": 4,
           "title": "The Little Alebrije",
           "price": 49.54,
           "image": "images/little_alebrije.jpeg"
