@@ -18,7 +18,7 @@
       },
       "options": {
         "sizes": ["small", "medium", "large", "extra large"],
-        "colors": ["red", "blue", "green", "yellow", "orange", "cyan", "brown"]
+        "colors": ["Red", "Blue", "Green", "Yellow", "Orange", "Cyan", "Brown"]
       },
       "details": {
         "description": "This hover craft handmade craft is crafted with precision and attention to detail. it is made from high-quality materials, it is a must-have for any sci-fi fan.",
@@ -104,7 +104,7 @@
       },
       "options": {
         "sizes": ["small", "medium", "large"],
-        "colors": ["black", "white", "silver", "gray", "cyan"]
+        "colors": ["Black", "White", "Silver", "Gray", "Cyan"]
       },
       "details": {
         "description": "The robot is primarily constructed from repurposed materials, including wood, metal, and various components. The body is made from a wooden box, with metal plates and gears attached for reinforcement and beauty appeal.",
@@ -164,6 +164,90 @@
           "username": "CraftyCollector",
           "rating": 5,
           "comment": "Incredible craftsmanship. This piece is worth every penny."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Futuristic Cyberpunk LED Keychain",
+      "price": 15.66,
+      "reviewCount": 4,
+      "description": "A well designed futuristic LED keychain, comes with diffent design, and perfect for programmer gamers.",
+      "images": {
+        "main": "images/LED_keychain.webp",
+        "thumbnails": [
+          "images/keychain_thumb.webp",
+          "images/keychain_thumb1.webp",
+          "images/keychain_thumb2.webp",
+          "images/keychain_thumb3.webp",
+          "images/keychain_thumb4.webp",
+          "images/keychain_thumb5.webp",
+          "images/keychain_thumb6.webp",
+          "images/keychain_thumb7.webp"
+        ]
+      },
+      "options": {
+        "sizes": ["small", "medium", "large"],
+        "colors": ["Red", "Green", "Blue", "Yellow", "Teal", "White"]
+      },
+      "details": {
+        "description": "LED keychain is a cyberpunk-inspired, futuristic handcrafted accessory that can be personalized to reflect your unique style. Perfect for tech enthusiasts and lovers of all futuristic things.",
+        "specifications": "Size of the Keychain: 8x14x8x14; Working Time - +-3.5 hours (Rechargeable(USB charging cord included)); Different Designs: - Circuit Board, Green Code, Binary Code, Personalised",
+        "careInstructions": "Wipe with a dry cloth to clean.",
+        "additionalInfo": "30-day warranty-- Estimated shipping time depends on your location."
+      },
+      "recommendedProducts": [
+        {
+          "title": "Handcrafted Wooden Keepsake Box",
+          "price": 154,
+          "image": "images/keepsake_box.jpeg"
+        },
+        {
+          "title": "Handmade Torpedo Tube",
+          "price": 25,
+          "image": "images/torpedo_tube.jpeg"
+        },
+        {
+          "title": "Bright Tower - Hand Crafted",
+          "price": 29,
+          "image": "images/bright_tower.jpeg"
+        },
+        {
+          "title": "The Little Alebrije",
+          "price": 49.54,
+          "image": "images/little_alebrije.jpeg"
+        },
+        {
+          "title": "Handcrafted Hover Craft",
+          "price": 567,
+          "image": "images/hover_craft.jpeg"
+        },
+        {
+          "title": "Steampunk Lamp",
+          "price": 22.67,
+          "image": "images/steampunk.jpeg"
+        }
+      ],
+      "reviews": [
+        {
+          "username": "GadgetGeek",
+          "rating": 5,
+          "comment": "A wonderful addition to my collection."
+        },
+        {
+          "username": "FuturisticCollector",
+          "rating": 5,
+          "comment": "Looks just like the picture, comes with a charging cable and clip on keychain. Thanks Nebula Nook."
+        },
+        {
+          "username": "CyberpunkLover",
+          "rating": 5,
+          "comment": "A very cool gadget and a great decoration. Decent quality, might be improved by a metal casing but that would also drive the price up. Still, the workmanship is great, and I see myself buying another of these in the future."
+        },
+        {
+          "username": "CraftyCollector",
+          "rating": 4,
+          "comment": "Larger than expected, but still very cool!"
         }
       ]
     }
